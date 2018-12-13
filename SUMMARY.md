@@ -1,7 +1,11 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome](README.md)
 * [Privacy Policy](privacy-policy.md)
 * [Terms of Use](terms-of-use.md)
 * [Untitled](untitled.md)
+
+## Communities
+
+* [Untitled](communities/untitled.md)
 
