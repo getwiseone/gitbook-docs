@@ -1,4 +1,10 @@
-# Welcome
+---
+description: >-
+  Wise.one is the self-serve opinion research platform for engagement projects
+  of any size.
+---
+
+# Home
 
 ## Getting Super Powers
 
