@@ -1,6 +1,7 @@
 # Table of contents
 
 * [What is wise.one?](README.md)
+* [Downloads](downloads.md)
 
 ## Company
 
