@@ -2,10 +2,10 @@
 
 * [What is wise.one?](README.md)
 * [Downloads](downloads.md)
+* [About the Company](about-the-company.md)
+* [Terms of Use](terms-of-use.md)
+* [Privacy Policy](privacy-policy.md)
+* [Release Notes](release-notes.md)
 
 ## Company
-
-* [About the Company](company/about-the-company/README.md)
-  * [Privacy Policy](company/about-the-company/privacy-policy.md)
-  * [Terms of Use](company/about-the-company/terms-of-use.md)
 
