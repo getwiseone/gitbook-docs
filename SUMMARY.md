@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-* [Untitled](untitled.md)
+* [Pricing](untitled.md)
 
 ## Communities
 
