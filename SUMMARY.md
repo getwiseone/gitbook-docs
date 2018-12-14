@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [What is wise.one?](README.md)
 * [Pricing](untitled.md)
 
 ## Communities

@@ -4,7 +4,7 @@ description: >-
   of any size.
 ---
 
-# Home
+# What is wise.one?
 
 ## Getting Super Powers
 
