@@ -5,7 +5,7 @@
 
 ## Company
 
-* [About the Company](company/about-the-company.md)
-* [Privacy Policy](company/privacy-policy.md)
-* [Terms of Use](company/terms-of-use.md)
+* [About the Company](company/about-the-company/README.md)
+  * [Privacy Policy](company/about-the-company/privacy-policy.md)
+  * [Terms of Use](company/about-the-company/terms-of-use.md)
 
