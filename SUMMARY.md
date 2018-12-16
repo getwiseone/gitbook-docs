@@ -6,7 +6,7 @@
 * [Terms of Use](terms-of-use.md)
 * [Privacy Policy](privacy-policy.md)
 * [Release Notes](release-notes.md)
-* [Authentication and User Accounts](authentication-and-user-accounts.md)
+* [User Registration Levels](authentication-and-user-accounts.md)
 
 ## Company
 

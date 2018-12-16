@@ -5,13 +5,35 @@ description: >-
   installations.
 ---
 
-# Authentication and User Accounts
+# User Registration Levels
 
-## Anonymous accounts
+## Anonymous Device
 
-Install the wise.one app and jump right in using an anonymous account tied to your mobile device.
+Install the wise.one app and jump right in using an anonymous account tied to your mobile device. As soon as you launch the wise.one app your device will register as an anonymous device automatically.
 
-## Registered accounts
+## Registered Contact
 
-Provide and email address...
+Provide an email address and then respond to the verification request using the email client on your device.
+
+To become a registered contact link your anonymous device to an email address:
+
+1. Enter your email address in the form on the wise.one app to recieve a verification email
+2. Open the verification email on the same device that you used to enter your email address
+3. Click on the "verify registration" link in the verification email and be sure to let your device "open in wise.one" when prompted.
+
+That's it!
+
+## Verified Subscriber
+
+Pay the monthly fee to access all the other cool features.
+
+## Verified Organizer
+
+Pay a little extra to do a little extra.
+
+## Enterprise Account
+
+Contact us and help us help you do amazing things.
+
+
 
