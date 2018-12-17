@@ -11,7 +11,7 @@ description: >-
 
 Install the wise.one app and jump right in using an anonymous account tied to your mobile device. As soon as you launch the wise.one app your device will register as an anonymous device automatically.
 
-## Registered Contact
+## Verified Contact
 
 Provide an email address and then respond to the verification request using the email client on your device.
 
@@ -23,11 +23,11 @@ To become a registered contact link your anonymous device to an email address:
 
 That's it!
 
-## Verified Subscriber
+## Registered Subscriber
 
 Pay the monthly fee to access all the other cool features.
 
-## Verified Organizer
+## Registered Organizer
 
 Pay a little extra to do a little extra.
 
