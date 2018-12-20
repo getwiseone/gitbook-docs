@@ -1,7 +1,8 @@
 ---
 description: >-
-  To verify registration, open the verification email on your device and click
-  on the verification link. When prompted click "open in wise.one".
+  To verify your wise.one registration, open the verification email on your
+  device and click on the verification link. When prompted click "open in
+  wise.one".
 ---
 
 # Registration Verification
