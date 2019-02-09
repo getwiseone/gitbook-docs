@@ -7,11 +7,31 @@ description: >-
 
 # Welcome to wise.one
 
-## Connect with Your Communities
-
 Join existing communities or create your own. Create questions and choose which communities you would like to have respond. Communities can be private \(shared access code\) or public. Community owners can access engagement reports that dive deep into the opinions of their communities. The subscribers can download datasets containing vote records with correlated voter Ids \(anonymous, but consistent\) across all questions.
 
-## Dive Deep with Analysic Datasets
+## Download the App
 
-Export data in a variety of formats for use with your analytcs tools.
+## Register to do More
+
+## For Community Members
+
+### Answer Questions
+
+### Join Communities
+
+#### Notifications
+
+#### Member Profiles
+
+### Ask Questions
+
+## For Community Owners
+
+### Create a Community
+
+### Ask Questions
+
+### Review Data
+
+
 
