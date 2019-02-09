@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introductions](README.md)
+* [Welcome to wise.one](README.md)
 * [Downloads](downloads.md)
 * [About the Company](about-the-company.md)
 * [Release Notes](release-notes.md)
