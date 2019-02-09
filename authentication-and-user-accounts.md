@@ -1,10 +1,3 @@
----
-description: >-
-  Wise.one does not track user accounts directly but rather allows users to link
-  devices to email addresses to maintain consistency across wise.one
-  installations.
----
-
 # User Registration Levels
 
 ## Anonymous Device

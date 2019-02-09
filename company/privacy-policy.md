@@ -1,7 +1,3 @@
----
-description: 'Effective date: October 23, 2018'
----
-
 # Privacy Policy
 
 wise.one \(“us”, “we”, or “our”\) operates the wise.one mobile application \(the “Service”\).

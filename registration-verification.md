@@ -9,7 +9,7 @@ description: >-
 
 Wise.one registration does not require passwords but rather relies on "second-factor" authenitcation using email. Read about the benefits of registration.
 
-To register: 
+To register:
 
 1. enter your email address when prompted 
 
