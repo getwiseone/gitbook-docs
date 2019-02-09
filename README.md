@@ -11,11 +11,31 @@ Join existing communities or create your own. Create questions and choose which 
 
 ## Download the App
 
-## Register to do More
+{% hint style="warning" %}
+wise.one app is scheduled for public release in Q2 of 2019. Join the [alpha program](https://www.wise.one/alpha) to get a sneak peak at a work in progress.
+{% endhint %}
+
+Available for iOS and Android...
+
+## Register to Do More
+
+You can install the wise.one app and jump right in using an anonymous account tied to your mobile device. _You do not need to register or subscribe to participate in the wise.one experience._ Registration does have its advantages. The differences in user registration status states are listed below. 
+
+### Anonymous Users
+
+### Verified Users
+
+### Subscribers
+
+#### Subscription Levels
+
+#### Pricing
 
 ## For Community Members
 
 ### Answer Questions
+
+Use the filters to find interesting questions.
 
 ### Join Communities
 
@@ -28,6 +48,12 @@ Join existing communities or create your own. Create questions and choose which 
 ## For Community Owners
 
 ### Create a Community
+
+#### Access Permissions
+
+#### Post Permissions
+
+#### Status Targets
 
 ### Ask Questions
 
