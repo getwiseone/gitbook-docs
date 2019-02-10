@@ -7,7 +7,7 @@ description: >-
 
 # Welcome to wise.one
 
-Join existing communities or create your own. Create questions and choose which communities you would like to have respond. Communities can be private \(shared access code\) or public. Community owners can access engagement reports that dive deep into the opinions of their communities. The subscribers can download datasets containing vote records with correlated voter Ids \(anonymous, but consistent\) across all questions.
+Join existing communities or create your own. Create questions and choose which communities you would like to have respond. Communities can be private \(shared access code\) or public. Community owners can access engagement reports that dive deep into the opinions of their communities. Subscribers can download datasets containing vote records with correlated voter Ids \(anonymous, but consistent\) across all questions.
 
 ## Download the App
 
@@ -28,6 +28,8 @@ You can install the wise.one app and jump right in using an anonymous account ti
 ### Subscribers
 
 #### Subscription Levels
+
+#### Enterprise Users
 
 #### Pricing
 
