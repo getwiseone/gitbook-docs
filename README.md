@@ -25,6 +25,12 @@ You can install the wise.one app and jump right in using an anonymous account ti
 
 ### Verified Users
 
+To become a verified user, provide an email address and then respond to the verification request using the email client on your device. Here are the steps:
+
+1. Enter your email address in the form on the wise.one app to recieve a verification email
+2. Open the verification email on the same device that you used to enter your email address
+3. Click on the "verify registration" link in the verification email and be sure to let your device "open in wise.one" when prompted.
+
 ### Subscribers
 
 #### Subscription Levels
