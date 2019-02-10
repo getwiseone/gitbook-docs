@@ -18,6 +18,8 @@ You can install the wise.one app and jump right in using an anonymous account ti
 
 ### Anonymous Users
 
+Registration is not required to answer questions. Mobile app users that do not register are considered "anonymous" users. There some limitations on anonymous users.
+
 ### Verified Users
 
 To become a verified user, provide an email address and then respond to the verification request using the email client on your device. Here are the steps:
