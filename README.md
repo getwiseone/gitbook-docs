@@ -1,71 +1,25 @@
 ---
-description: >-
-  Get Answers to Big Questions. Wise.one is an innovative new approach to
-  collecting feedback from your community for data modeling and market
-  segmentation projects.
+description: Get Answers to Big Questions.
 ---
 
 # Welcome to wise.one
 
-Join existing communities or create your own. Create questions and choose which communities you would like to have respond. Communities can be private \(shared access code\) or public. Community owners can access engagement reports that dive deep into the opinions of their communities. Subscribers can download datasets containing vote records with correlated voter Ids \(anonymous, but consistent\) across all questions.
+## What is wise.one?
 
-## Download the App
+Wise.one is a research and reporting platform that provides an innovative new approach to collecting feedback from communities for data modeling and market segmentation projects. Users can join existing communities or create their own. They can dreate questions and choose which communities they would like to have respond. Communities can be private \(shared access code\) or public. Community owners can access engagement reports that dive deep into the opinions of their communities. Subscribers can download datasets containing vote records with correlated voter Ids \(anonymous, but consistent\) across all questions.
 
-{% hint style="warning" %}
-wise.one app is scheduled for public release in Q2 of 2019. Join the [alpha program](https://www.wise.one/alpha) to get a sneak peak at a work in progress.
-{% endhint %}
+## Why should your business use wise.one?
 
-Available for iOS and Android...
+Most businesses do not have access to customer engagement channels that build analytically rich feedback relationships with their customers. If these business are not natively selling digital products or services, they rely predominantly on social media, online surveys, or marketing website analytics to extract insights about customer attitudes and opinions. All of these channels have constraints or conditions that limit the practical value of the data they produce when compared to what’s possible when using the right technology. The growth opportunity for most companies looking for richer customer insights is to extend consumer programs into feedback systems that offer scalable, real-time, location-aware engagement. This can be done using a new, dynamic, opinion polling network, acting in an open, data-rich environment that builds on itself as the user base grows, delivering value and insight to everyone that uses it.
 
-## Register to Do More
+Interest and demand for smart engagement marketing technologies has been steadily growing for the past 20 years. There are two key trends that make this the right time for a solution like wise.one:
 
-You can install the wise.one app and jump right in using an anonymous account tied to your mobile device. _You do not need to register or subscribe to participate in the wise.one experience._ Registration does have its advantages. The differences in user registration status states are listed below. 
+1. Consumers are turning away from “traditional” social media as they increasingly feel subordinate to policies and practices regarding privacy and influence. I’m certain this trend will accelerate through 2020. The wise.one solution offers users an opportunity for authentic influence without compromising on their privacy concerns.
+2. In reaction to the current political environment, we are beginning to see attitudes shift in favor of finding common ground and developing a better understanding of the attitudes and opinions of other communities. I’m certain this trend will also continue through 2020. The wise.one solution offers users the opportunity to gain a deeper understanding of each other through alignment profiles and community participation.
 
-### Anonymous Users
+These two factors will provide organizations and analysts with the key to programmatic success with wise.one: an engaged install base. Strong signals that your company could benefit from wise.one include:
 
-### Verified Users
-
-To become a verified user, provide an email address and then respond to the verification request using the email client on your device. Here are the steps:
-
-1. Enter your email address in the form on the wise.one app to recieve a verification email
-2. Open the verification email on the same device that you used to enter your email address
-3. Click on the "verify registration" link in the verification email and be sure to let your device "open in wise.one" when prompted.
-
-### Subscribers
-
-#### Subscription Levels
-
-#### Enterprise Users
-
-#### Pricing
-
-## For Community Members
-
-### Answer Questions
-
-Use the filters to find interesting questions.
-
-### Join Communities
-
-#### Notifications
-
-#### Member Profiles
-
-### Ask Questions
-
-## For Community Owners
-
-### Create a Community
-
-#### Access Permissions
-
-#### Post Permissions
-
-#### Status Targets
-
-### Ask Questions
-
-### Review Data
-
-
+* Your company has a large portfolio of products or services that iterate quickly.
+* Your business model involves frequent customer touch points.
+* Your company has made investments in developing internal analytics capabilities to better understand their customers.
 

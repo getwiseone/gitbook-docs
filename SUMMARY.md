@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to wise.one](README.md)
+* [Getting Started](getting-started.md)
 
 ## Company
 
