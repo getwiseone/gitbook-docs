@@ -30,11 +30,11 @@ To become a verified user, provide an email address and then respond to the veri
 
 ### Subscribers
 
-#### Subscription Levels
+#### Community Manager
 
-#### Enterprise Users
+#### Enterprise User
 
-#### Pricing
+#### 
 
 ## For Community Members
 
