@@ -1,7 +1,7 @@
 ---
 description: >-
-  The company was formed in Q4 2018 to begin development of the platform.
-  Product launch is scheduled for Q2 2019.
+  The company was formed in Q4 2018 to begin development of the wise.one
+  platform. Product launch is scheduled for Q2 2019.
 ---
 
 # About wise.one, Inc.
