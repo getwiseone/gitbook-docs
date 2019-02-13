@@ -50,11 +50,13 @@ Use the filters to find interesting questions.
 
 ### Ask Questions
 
-## For Community Owners
+## For Community Managers
 
 ### Create a Community
 
 #### Access Permissions
+
+Communities can be either public or private. Public communities are open to anyone who wants to join with no special access requirements or permission needed. Private communities require an access code to join. The access code is created automatically when the community code is created. 
 
 #### Post Permissions
 
