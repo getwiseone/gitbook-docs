@@ -7,6 +7,7 @@ description: Want to join a team making products to change the world?
 ## Working with wise.one
 
 * Remote is cool.
+* We use Github and Slack
 
 ## Open Roles
 
