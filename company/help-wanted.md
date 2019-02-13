@@ -12,7 +12,7 @@ description: Want to join a team making products to change the world?
 
 ### Software Developer- Front End
 
-Skills sought: Javascript/Typescript, Angular, HTML, CSS 
+Skills sought: Javascript/Typescript, Angular, HTML, CSS, PWA \(Ionic\)
 
 ### Software Developer- Back End
 
