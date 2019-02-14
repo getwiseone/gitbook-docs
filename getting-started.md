@@ -30,11 +30,40 @@ To become a verified user, provide an email address and then respond to the veri
 
 ### Subscribers
 
-#### Community Manager
+#### All subscriptions include:
 
-#### Enterprise User
+* Unlimited public questions
+* Unlimited questions in communities you manage
+* Access to reports of responses and engagement
+* Data exports that include common customer keys across questions in the export
 
-#### 
+#### Subscription Levels:
+
+_Community Manager \($99/mo\)_
+
+* Unlimited Private Communities \(limit 10,000 members each\)
+* Unlimited Public Questions
+* Access to Basic wise.one Reports
+* 100,000 records per month data exporting
+
+_Community Manager- PRO \($249/mo\)_
+
+* 10 Public Communities \(limit 100,000 members each\) 
+* Unlimited Private Communities \(unlimited members\) 
+* Unlimited Public Questions
+* Access to Advanced wise.one Reports
+* 1,000,000 records per month data exporting
+
+_Enterprise User \($5,000/mo\)_
+
+* 100 Public Communities \(limit 5,000,000 members each\)
+* Unlimited Private Communities \(unlimited members\)
+* Unlimited Public Questions
+* Access to Advanced wise.one Reporting
+* 1,000,000,000 records per month data exporting
+* API key for custom development \(some request limits may apply\)
+
+
 
 ## For Community Members
 
