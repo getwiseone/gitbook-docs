@@ -28,7 +28,7 @@ To become a verified user, provide an email address and then respond to the veri
 2. Open the verification email on the same device that you used to enter your email address
 3. Click on the "verify registration" link in the verification email and be sure to let your device "open in wise.one" when prompted.
 
-### Subscribers
+### Subscribers- Community Managers
 
 #### All subscriptions include:
 
@@ -41,29 +41,27 @@ To become a verified user, provide an email address and then respond to the veri
 
 _Community Manager \($99/mo\)_
 
-* Unlimited Private Communities \(limit 10,000 members each\)
-* Unlimited Public Questions
-* Access to Basic wise.one Reports
-* 100,000 records per month data exporting
+* Manage unlimited private communities \(up to 10,000 members each\)
+* Ask unlimited public questions
+* Access basic wise.one response reports
+* Export 100,000 records per month of response data
 
 _Community Manager- PRO \($249/mo\)_
 
-* 10 Public Communities \(limit 100,000 members each\) 
-* Unlimited Private Communities \(unlimited members\) 
-* Unlimited Public Questions
-* Access to Advanced wise.one Reports
-* 1,000,000 records per month data exporting
+* Manage 10 public communities \(up to 100,000 members each\) 
+* Manage unlimited private communities \(unlimited members\) 
+* Ask unlimited public questions
+* Access advanced wise.one reports
+* Export 1,000,000 records per month of response data
 
 _Enterprise User \($5,000/mo\)_
 
-* 100 Public Communities \(limit 5,000,000 members each\)
-* Unlimited Private Communities \(unlimited members\)
-* Unlimited Public Questions
-* Access to Advanced wise.one Reporting
-* 1,000,000,000 records per month data exporting
-* API key for custom development \(some request limits may apply\)
-
-
+* Manage 100 public communities \(up to 5,000,000 members each\)
+* Manage unlimited private communities \(unlimited members\)
+* Ask unlimited public questions
+* Access advanced wise.one reporting
+* Export 1,000,000,000 records per month of response data
+* Use wise.one API key for custom development \(some request limits may apply\)
 
 ## For Community Members
 
