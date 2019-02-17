@@ -89,7 +89,21 @@ Communities can be either public or private. Public communities are open to anyo
 
 #### Status Targets
 
+#### Community Sharing
+
+Use the "share" option on the community menu to select which app you would like to use to share the community. The link that is sent for shared communities should be opened on a mobile device where either the wise.one app will open \(if installed\) or the app store will open allowing you to install the app. Once wise.one launches, you will be taken directly to the shared community.
+
+Please note that if a shared community is private the community access code will be included in the message. The access codes for private communities can and should be deleted manually from the messages if sharing publicly. For example, include the code when sharing via email to a specific person, but remove if sharing on twitter.
+
 ### Ask Questions
+
+#### Determine Audience
+
+#### Question Sharing
+
+Use the "share" option on the ballot menu to select which app you would like to use to share the question. The link that is sent for shared questions should be opened on a mobile device where either the wise.one app will open \(if installed\) or the app store will open allowing you to install the app. Once wise.one launches, you will be taken directly to the shared question.
+
+Please note that if a shared question is assigned to a private community the recipient of the [wise.one](http://wise.one/) link will need to be a member of that community in order to read and answer the question. Users without permission to view the question will be prompted to join the assigned community. Private community codes are not included in the shared question links.
 
 ### Review Data
 
