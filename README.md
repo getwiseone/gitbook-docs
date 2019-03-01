@@ -16,8 +16,8 @@ Most businesses do not have access to engagement channels that build analyticall
 
 Interest and demand for smart engagement marketing technologies has been steadily growing for the past 20 years. There are two key trends that make this the right time for a solution like wise.one:
 
-1. Consumers are turning away from “traditional” social media as they increasingly feel subordinate to policies and practices regarding privacy and influence. I’m certain this trend will accelerate through 2020. The wise.one solution offers users an opportunity for authentic influence without compromising on their privacy concerns.
-2. In reaction to the current political environment, we are beginning to see attitudes shift in favor of finding common ground and developing a better understanding of the attitudes and opinions of other communities. I’m certain this trend will also continue through 2020. The wise.one solution offers users the opportunity to gain a deeper understanding of each other through alignment profiles and community participation.
+1. Consumers are turning away from “traditional” social media as they increasingly feel subordinate to policies and practices regarding privacy and influence. This trend will accelerate through 2020. The wise.one solution offers users an opportunity for authentic influence without compromising on their privacy concerns.
+2. In reaction to the current political environment, we are beginning to see attitudes shift in favor of finding common ground and developing a better understanding of the attitudes and opinions of other communities. This trend will also continue through 2020. The wise.one solution offers users the opportunity to gain a deeper understanding of each other through alignment profiles and community participation.
 
 These two factors will provide organizations and analysts with the key to programmatic success with wise.one: an engaged install base. Strong signals that your company could benefit from wise.one include:
 
