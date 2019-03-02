@@ -14,7 +14,7 @@ Data can save the world if managed with transparency and integrity.
 
 ### Darryl Kanouse, Founder
 
-Wise.one, Inc was founded by Darryl Kanouse, a marketing technology veteran having lead the design and delivery of massive personalization and engagement solutions for some of the world's largest digital properties, including amazon.com and Activision Blizzard. Darryl lives in Southern California with his wife and two daughters.
+Wise.one, Inc was founded by Darryl Kanouse, a marketing technology veteran having led the design and delivery of massive personalization and engagement solutions for some of the world's largest digital properties, including amazon.com and Activision Blizzard. Darryl lives in Southern California with his wife and two daughters.
 
 ## Contact
 
