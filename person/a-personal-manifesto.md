@@ -36,10 +36,12 @@ Witness: A good life is **a first person experience that is resonant with this a
 
 ### Be
 
-There are things you can control and things you cannot control. Know the difference.
+When being an operator, "you act." There are things that can be impacted by your actions, and things that can not. Know the difference.
 
-Behavior is determined first, then observed.  
-  
+When transcendent, "you are." Behavior is determined first, then observed.  
+
+
+When experienceing the world in Operator Mode...  
   
 
 
