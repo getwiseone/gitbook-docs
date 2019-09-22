@@ -6,33 +6,19 @@ description: True this.
 
 I am often wrong about the true causes of my own behavior. Watch me now- “evolved, determined, authentic, and resonant”, “signaling, saturated in privilege.”
 
-## Evolution
+## Prologue
 
-True this about life: **traits enhancing survival and reproduction** become more common in successive generations of a population.
+### Evidence
 
-* Variation exists within populations of organisms with respect to morphology, physiology, and behaviour \(phenotypic variation\)
-* Different traits confer different rates of survival and reproduction \(differential fitness\)
-* These traits can be passed from generation to generation \(heritability of fitness\)
+_**Evolution**_**:** True this about life: traits enhancing survival and reproduction become more common in successive generations of a population. 1\) Variation exists within populations of organisms with respect to morphology, physiology, and behaviour \(phenotypic variation\). 2\) Different traits confer different rates of survival and reproduction \(differential fitness\). 3\)These traits can be passed from generation to generation \(heritability of fitness\). _First-person experiences and the mental dispositions of a modular brain are the product of this process \(like all aspects of the organism\) and should be considered for their lineage._
 
-_First-person experiences, the mental dispositions of a modular brain are the product of this process \(like all aspects of the organism\) and should be considered for their lineage._
+_**Determinism**_**:** True this about everything: determinism and dependent origination, is cause and effect, and is chaos theory, and is time as a dimension. 1\) Nothing exists without cause and conditions \(determinism\). 2\) No causes could have been otherwise \(dependent origination means unity\) 
 
-## It is Determined
+### Witness
 
-True this about everything: **determinism and dependent origination**, is cause and effect, and is chaos theory, and is time as a dimension.
+_**The Actualizing Tendency**_**:** There is a directional trend evident in all organic and human life: it is the urge to expand, develop, and mature; it is the tendency to express and activate all the capacities of the organism and the self. \(The Universal Will\)
 
-* Nothing exists without cause and conditions \(determinism\)
-* No causes could have been otherwise \(dependent origination means unity\) 
-
-## The Actualizing Tendency \(The Universal Will\)
-
-Witness: There is **a directional trend evident in all organic and human life**: it is the urge to expand, develop, and mature; it is the tendency to express and activate all the capacities of the organism and the self. \(The Universal Will\)
-
-## Flourishing
-
-Witness: A good life is **a first person experience that is resonant with this actualizing tendency**, as the expansion, development, and maturity of one’s life; an expression and activation of all capacities. \(Opposed to an experience that is dissonant, “out of tune.”\) 
-
-* Flourishing is “living within an optimal range of human functioning, one that connotes goodness, generativity, growth, and resilience”
-* Flourishing is “the opposite of both pathology and languishing, which are described as living a life that feels hollow and empty.”
+_**Flourishing**_**:** A good life is a first person experience that is resonant with this actualizing tendency, as the expansion, development, and maturity of one’s life; an expression and activation of all capacities. \(Opposed to an experience that is dissonant, “out of tune.”\) Flourishing is: 1\) “living within an optimal range of human functioning, one that connotes goodness, generativity, growth, and resilience”, and 2\) “the opposite of both pathology and languishing, which are described as living a life that feels hollow and empty.”
 
 ### Be
 
